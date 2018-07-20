@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.0",
+        "flyingluscas/correios-php": "^2.3"
+    }
+}
